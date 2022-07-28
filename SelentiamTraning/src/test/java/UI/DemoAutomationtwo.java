@@ -20,6 +20,9 @@ public class DemoAutomationtwo {
 				
 		
 		driver.close();
+		driver.close();
+		driver.close();
+		
 		
 	}
 
